@@ -44,4 +44,4 @@ Verify the cron job
 
 ```bash
 crontab -l
-The output should show the entry you added to run the script every minute.
+The output should show the entry you added to run the script every 30mins.
